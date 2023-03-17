@@ -1,0 +1,8 @@
+pytest-shutil
+IPython
+sklearn
+numpy
+pyyaml
+tensorboardX
+tqdm
+matplotlib
