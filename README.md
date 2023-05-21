@@ -133,9 +133,11 @@ This repo is based on [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN).
 
 Please cite this work if you find it useful:.
 
-      @inproceedings{wang2023neural,
-        title={Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition},
-        author={Wang, Xinghan and Xu, Xin and Mu, Yadong},
-        booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-        year={2023}
-      }
+    @InProceedings{Wang_2023_CVPR,
+    author    = {Wang, Xinghan and Xu, Xin and Mu, Yadong},
+    title     = {Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {10597-10607}
+}
