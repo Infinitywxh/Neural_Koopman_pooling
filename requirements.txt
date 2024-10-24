@@ -1,6 +1,6 @@
 pytest-shutil
 IPython
-sklearn
+scikit-learn
 numpy
 pyyaml
 tensorboardX
