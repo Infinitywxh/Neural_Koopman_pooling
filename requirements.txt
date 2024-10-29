@@ -2,6 +2,8 @@ pytest-shutil
 IPython
 scikit-learn
 numpy
+pandas
+xgboost
 pyyaml
 tensorboardX
 tqdm
